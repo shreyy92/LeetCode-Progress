@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/shreyy92/LeetCode-Progress/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shreyy92/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyy92/LeetCode-Progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/shreyy92/LeetCode-Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shreyy92/LeetCode-Progress/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Hash Table
 |  |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shreyy92/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shreyy92/LeetCode-Progress/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
