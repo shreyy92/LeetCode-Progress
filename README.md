@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shreyy92/LeetCode-Progress/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shreyy92/LeetCode-Progress/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shreyy92/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/shreyy92/LeetCode-Progress/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyy92/LeetCode-Progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyy92/LeetCode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyy92/LeetCode-Progress/tree/master/0643-maximum-average-subarray-i) |
@@ -71,4 +72,12 @@
 | [0567-permutation-in-string](https://github.com/shreyy92/LeetCode-Progress/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyy92/LeetCode-Progress/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shreyy92/LeetCode-Progress/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shreyy92/LeetCode-Progress/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shreyy92/LeetCode-Progress/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
