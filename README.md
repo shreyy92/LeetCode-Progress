@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyy92/LeetCode-Progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyy92/LeetCode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyy92/LeetCode-Progress/tree/master/0643-maximum-average-subarray-i) |
+| [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shreyy92/LeetCode-Progress/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/shreyy92/LeetCode-Progress/tree/main/0015-3sum/) | Medium |
+| [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +88,28 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/shreyy92/LeetCode-Progress/tree/main/0054-spiral-matrix/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
