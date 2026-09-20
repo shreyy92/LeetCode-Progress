@@ -19,6 +19,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/shreyy92/LeetCode-Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shreyy92/LeetCode-Progress/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyy92/LeetCode-Progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0162-find-peak-element](https://github.com/shreyy92/LeetCode-Progress/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyy92/LeetCode-Progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyy92/LeetCode-Progress/tree/master/0209-minimum-size-subarray-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyy92/LeetCode-Progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## String
 |  |
 | ------- |
