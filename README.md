@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/shreyy92/LeetCode-Progress/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shreyy92/LeetCode-Progress/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/shreyy92/LeetCode-Progress/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/shreyy92/LeetCode-Progress/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shreyy92/LeetCode-Progress/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyy92/LeetCode-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shreyy92/LeetCode-Progress/tree/main/0162-find-peak-element/) | Medium |
