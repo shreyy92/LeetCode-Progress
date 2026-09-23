@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/shreyy92/LeetCode-Progress/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shreyy92/LeetCode-Progress/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyy92/LeetCode-Progress/tree/master/0033-search-in-rotated-sorted-array) |
@@ -11,7 +11,7 @@
 | [0048-rotate-image](https://github.com/shreyy92/LeetCode-Progress/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shreyy92/LeetCode-Progress/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/shreyy92/LeetCode-Progress/tree/main/0056-merge-intervals/) | Medium |
-| [0057-insert-interval](https://github.com/shreyy92/LeetCode-Progress/tree/main/0057-insert-interval/) | Medium |
+| [0057-insert-interval](https://github.com/shreyy92/LeetCode-Progress/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/shreyy92/LeetCode-Progress/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyy92/LeetCode-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shreyy92/LeetCode-Progress/tree/main/0162-find-peak-element/) | Medium |
@@ -24,29 +24,29 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/shreyy92/LeetCode-Progress/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyy92/LeetCode-Progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/shreyy92/LeetCode-Progress/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyy92/LeetCode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyy92/LeetCode-Progress/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/shreyy92/LeetCode-Progress/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shreyy92/LeetCode-Progress/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyy92/LeetCode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shreyy92/LeetCode-Progress/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/shreyy92/LeetCode-Progress/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shreyy92/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyy92/LeetCode-Progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0392-is-subsequence](https://github.com/shreyy92/LeetCode-Progress/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/shreyy92/LeetCode-Progress/tree/master/0567-permutation-in-string) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyy92/LeetCode-Progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/shreyy92/LeetCode-Progress/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyy92/LeetCode-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -55,36 +55,36 @@
 | [0209-minimum-size-subarray-sum](https://github.com/shreyy92/LeetCode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyy92/LeetCode-Progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyy92/LeetCode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0392-is-subsequence](https://github.com/shreyy92/LeetCode-Progress/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyy92/LeetCode-Progress/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/shreyy92/LeetCode-Progress/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shreyy92/LeetCode-Progress/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/shreyy92/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/shreyy92/LeetCode-Progress/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/shreyy92/LeetCode-Progress/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/shreyy92/LeetCode-Progress/tree/main/0056-merge-intervals/) | Medium |
 | [0274-h-index](https://github.com/shreyy92/LeetCode-Progress/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/shreyy92/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/shreyy92/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyy92/LeetCode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyy92/LeetCode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyy92/LeetCode-Progress/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -92,46 +92,46 @@
 | [0643-maximum-average-subarray-i](https://github.com/shreyy92/LeetCode-Progress/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shreyy92/LeetCode-Progress/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/shreyy92/LeetCode-Progress/tree/master/0048-rotate-image) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/shreyy92/LeetCode-Progress/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shreyy92/LeetCode-Progress/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shreyy92/LeetCode-Progress/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/shreyy92/LeetCode-Progress/tree/main/0054-spiral-matrix/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0274-h-index](https://github.com/shreyy92/LeetCode-Progress/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
 ## Quicksort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0056-merge-intervals](https://github.com/shreyy92/LeetCode-Progress/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
