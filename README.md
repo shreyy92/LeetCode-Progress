@@ -15,6 +15,7 @@
 | [0162-find-peak-element](https://github.com/shreyy92/LeetCode-Progress/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyy92/LeetCode-Progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyy92/LeetCode-Progress/tree/master/0209-minimum-size-subarray-sum) |
+| [0228-summary-ranges](https://github.com/shreyy92/LeetCode-Progress/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/shreyy92/LeetCode-Progress/tree/master/0274-h-index) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyy92/LeetCode-Progress/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/shreyy92/LeetCode-Progress/tree/main/0912-sort-an-array/) | Medium |
