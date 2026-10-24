@@ -144,4 +144,20 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/shreyy92/LeetCode-Progress/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shreyy92/LeetCode-Progress/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shreyy92/LeetCode-Progress/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shreyy92/LeetCode-Progress/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shreyy92/LeetCode-Progress/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shreyy92/LeetCode-Progress/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
