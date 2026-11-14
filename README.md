@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shreyy92/LeetCode-Progress/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shreyy92/LeetCode-Progress/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/shreyy92/LeetCode-Progress/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/shreyy92/LeetCode-Progress/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyy92/LeetCode-Progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shreyy92/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shreyy92/LeetCode-Progress/tree/master/0048-rotate-image) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0015-3sum](https://github.com/shreyy92/LeetCode-Progress/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/shreyy92/LeetCode-Progress/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/shreyy92/LeetCode-Progress/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shreyy92/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyy92/LeetCode-Progress/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0392-is-subsequence](https://github.com/shreyy92/LeetCode-Progress/tree/main/0392-is-subsequence/) | Easy |
